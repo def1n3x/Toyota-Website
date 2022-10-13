@@ -1,0 +1,291 @@
+/* Main */
+body {
+    position: relative;
+    width: 1600px;
+    height: 900px;
+
+    background: url(/img/background.jpg);
+    background-attachment: fixed;
+}
+
+/* Небольшая информация */
+.vopros {
+    position: absolute;
+    width: 416px;
+    height: 39px;
+    left: 215px;
+    top: 30px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #000000;
+}
+
+p {
+    position: absolute;
+    width: 700px;
+    height: 220px;
+    left: 215px;
+    top: 89px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+/* Самые надежные автомобили */
+.vibor {
+    position: absolute;
+    width: 531px;
+    height: 39px;
+    left: 215px;
+    top: 305px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #000000;
+}
+
+/* Ссылки */
+ul {
+    position: absolute;
+    width: 193px;
+    height: 120px;
+    left: 215px;
+    top: 360px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+/* Toyota Camry */
+.t_camry {
+    position: absolute;
+    width: 227px;
+    height: 39px;
+    left: 215px;
+    top: 500px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #000000;
+}
+
+.img {
+    position: absolute;
+    width: 500px;
+    height: 333px;
+    left: 215px;
+    top: 575px;
+
+    background: url(Toyota_Camry.jpg);
+}
+
+.camry {
+    position: absolute;
+    width: 600px;
+    height: 150px;
+    left: 215px;
+    top: 910px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+/* Toyota Prius */
+.t_prius {
+    position: absolute;
+    width: 202px;
+    height: 39px;
+    left: 215px;
+    top: 1090px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.img1 {
+    position: absolute;
+    width: 508px;
+    height: 329px;
+    left: 215px;
+    top: 1165px;
+
+    background: url(Toyota_Prius.jpg);
+}
+
+.prius {
+    position: absolute;
+    width: 600px;
+    height: 288px;
+    left: 215px;
+    top: 1500px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+/* Toyota Corolla */
+.t_corolla {
+    position: absolute;
+    width: 234px;
+    height: 39px;
+    left: 215px;
+    top: 1775px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+   
+    color: #000000;
+}
+
+.img2 {
+    position: absolute;
+    width: 508px;
+    height: 329px;
+    left: 215px;
+    top: 1850px;
+    
+    background: url(Toyota_Corolla.jpg);
+}
+
+.corolla {
+    position: absolute;
+    width: 600px;
+    height: 360px;
+    left: 215px;
+    top: 2190px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+/* Toyota Higlander */
+.t_highlander {
+    position: absolute;
+    width: 304px;
+    height: 39px;
+    left: 215px;
+    top: 2515px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.img3 {
+    position: absolute;
+    width: 508px;
+    height: 329px;
+    left: 215px;
+    top: 2590px;
+    
+    background: url(Toyota_Highlander.jpg);
+}
+
+.highlander {
+    position: absolute;
+    width: 600px;
+    height: 340px;
+    left: 215px;
+    top: 2930px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+/* Toyota RAV 4 */
+.t_rav4 {
+    position: absolute;
+    width: 304px;
+    height: 39px;
+    left: 215px;
+    top: 3280px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+
+.img4 {
+    position: absolute;
+    width: 511px;
+    height: 329px;
+    left: 215px;
+    top: 3360px;
+    
+    background: url(Toyota_RAV_4.jpg);
+}
+
+.rav4 {
+    position: absolute;
+    width: 599px;
+    height: 315px;
+    left: 215px;
+    top: 3700px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+}
